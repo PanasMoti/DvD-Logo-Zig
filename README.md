@@ -61,7 +61,7 @@ while similar to C and capable of linking with C libraries , Zig is kind of hars
     @as(f32, @floatFromInt(value))
 ```
 it cant be quite tough coming from C where i can pretty much count on the compiler to do the converting or at the very least do it as
-```c
+```cpp
     (float)iValue
 ```
 but i had a blast making this project and learned a lot about Zig and i might use it for more projects in the future
